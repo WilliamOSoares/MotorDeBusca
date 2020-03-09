@@ -1,0 +1,5 @@
+Clique em Inserir e escolha os elementos desejados nas diferentes galerias. Temas e estilos também 
+ajudam a manter seu documento coordenado. Quando você clica em Design e escolhe um novo tema,
+as imagens, gráficos e elementos gráficos SmartArt são alterados para corresponder ao novo tema. 
+Quando você aplica estilos, os títulos são alterados para coincidir com o novo tema. Economize tempo 
+no Word com novos botões que são mostrados no local em que você precisa deles.
